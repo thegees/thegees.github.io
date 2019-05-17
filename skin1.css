@@ -4,6 +4,16 @@
     width: 784px;
 }
 
+.custom .quadrant{
+    position: absolute;
+    background: url(ps3-assets/player-n.png);
+    height: 17px;
+    width: 111px;
+    top: 140px;
+    left: 240px;
+    opacity: 0;
+}
+
 .custom .p0{
     background-position: 0 -6px;
     opacity: 0;
