@@ -6,7 +6,7 @@
 
 .custom .quadrant{
     position: absolute;
-    background: url(ps3-assets/player-n.png);
+    background: url(quadrant.svgz);
     height: 17px;
     width: 111px;
     top: 140px;
