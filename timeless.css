@@ -1,12 +1,12 @@
 .controller.xbox{
-    background: url(base.png) no-repeat;
+    background: url(timeless/timeless-assets/base.png) no-repeat;
     height: 658px;
     width: 784px;
 }
 
 .custom .quadrant{
     position: absolute;
-    background: url(quadrant.svgz);
+    background: url(timeless/timeless-assets/quadrant.svgz);
     height: 17px;
     width: 111px;
     top: 140px;
